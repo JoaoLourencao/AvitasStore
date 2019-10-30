@@ -1,0 +1,33 @@
+{
+	"products" : [
+		{
+			"name" : "Angel Chronic",
+			"price" : "35.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "images/anjo.jpg",
+			"description" : "This is a very awesome grey T-shirt"
+		},
+		{
+			"name" : "Lava Chronic",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "images/lava.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "Militar Lost...",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "images/militar.jpg",
+			"description" : "This is another fun grey T-shirt"
+		}
+	]
+}
